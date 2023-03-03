@@ -3,3 +3,4 @@
 ## Gabriel Montes
 ## Eloise Ana
 ## Reina Bing Apa
+## Chad Banaldia
